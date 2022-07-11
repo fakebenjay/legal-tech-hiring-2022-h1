@@ -1,0 +1,11 @@
+bucket,role,count
+20andunder,acquirer,9
+21-100,acquirer,21
+101-300,acquirer,13
+301-500,acquirer,3
+over500,acquirer,4
+20andunder,acquiree,43
+21-100,acquiree,9
+101-300,acquiree,0
+301-500,acquiree,0
+over500,acquiree,0
