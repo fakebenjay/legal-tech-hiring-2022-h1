@@ -64,7 +64,7 @@ body {
   line-height: normal;
   color: black;
   text-align: left;
-  background-color: #f3f3f3;
+  background-color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -76,7 +76,7 @@ body {
 
 .hed {
   display: inline-block;
-  padding: 10px 10px 0 10px;
+  padding: 10px 5px 0 10px;
   font-size: 18pt;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
@@ -301,7 +301,7 @@ svg {
 .stat-bar {
   height: 36px;
   display: inline-block;
-  background-color: #d5563a;
+  background-color: #132a43;
 }
 
 .stat span {
